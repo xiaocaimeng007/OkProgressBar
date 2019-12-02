@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProgressView">
+        <attr name="percent" format="float"></attr>
+        <attr name="percentColor" format="color"></attr>
+        <attr name="percentFillColor" format="color"></attr>
+        <attr name="progressHeight" format="float"></attr>
+        <attr name="percentTextSize" format="dimension"></attr>
+        <attr name="isProgressRound" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>
